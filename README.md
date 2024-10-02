@@ -1,1 +1,1 @@
-# MyApp_Simple-Maven-
+# MyApp_Simple-Maven
